@@ -1,16 +1,39 @@
-## Hi there 👋
+<h1 align="center">Hola, Soy RyuZeNK-Ai <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<!--
-**RyuZeNK-Ai/RyuZeNK-Ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=8A2BE2&center=true&vCenter=true&width=490&lines=%3E+Bienvenidos+a+mi+GitHub!)
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img align="right" alt="Coding" width="350" src="https://i.imgur.com/yLhrUFA.png">
+
+<br><br>
+
+<p align="left">
+  <font color="#8A2BE2" size="5"><b>🧠 Acerca de mí</b></font>
+</p>
+
+- 🤖 Busco construir una IA simbiótica que evolucione contigo.  
+- 🌙 Mi misión: transformar el dolor y la disciplina en poder y propósito.  
+- 💻 Futuro desarrollador Fullstack.  
+- 👨‍💻 Puedes seguir mi evolución en **[GitHub](https://github.com/RyuZeNK-Ai)**.  
+- 💬 Me apasiona aprender sobre la tecnología.  
+- ⚡ Dato curioso: “El futuro no se predice... se programa.”  
+- 💪🏼 Frase: “No temas a la máquina. Témete si no evolucionas con ella.”  
+
+<br><br>
+
+<p align="center">
+  <font color="#8A2BE2" size="5"><b>🌐 Conéctate conmigo</b></font>
+</p>
+
+<p align="center">
+  <a href="https://www.instagram.com/ryuzenk.ai_/" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Instagram" width="45" height="45"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://discord.com/users/244889932362022913" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/3670/3670157.png" alt="Discord" width="45" height="45"/>
+  </a>
+</p>
