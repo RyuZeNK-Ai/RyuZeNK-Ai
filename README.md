@@ -24,6 +24,42 @@
 
 <br><br>
 
+<h2 align="center">⚙️ Simbiosis Progresiva – RyuZeNK.Ai</h2>
+
+<div align="center">
+
+<table>
+<tr><td>🧠 <b>Markdown</b></td><td>
+<div style="background:#0d0d0d;width:250px;border-radius:10px;">
+  <div style="width:50%;background:#8A2BE2;height:10px;border-radius:10px;"></div>
+</div>
+</td><td>50%</td></tr>
+
+<tr><td>⚙️ <b>Git / GitHub</b></td><td>
+<div style="background:#0d0d0d;width:250px;border-radius:10px;">
+  <div style="width:10%;background:#8A2BE2;height:10px;border-radius:10px;"></div>
+</div>
+</td><td>10%</td></tr>
+
+<tr><td>🖥️ <b>HTML / CSS</b></td><td>
+<div style="background:#0d0d0d;width:250px;border-radius:10px;">
+  <div style="width:5%;background:#8A2BE2;height:10px;border-radius:10px;"></div>
+</div>
+</td><td>5%</td></tr>
+
+<tr><td>🐍 <b>Python</b></td><td>
+<div style="background:#0d0d0d;width:250px;border-radius:10px;">
+  <div style="width:5%;background:#8A2BE2;height:10px;border-radius:10px;"></div>
+</div>
+</td><td>5%</td></tr>
+</table>
+
+</div>
+
+<p align="center"><i>“La evolución no es casualidad — es simbiosis entre mente y código.”</i></p>
+
+
+
 <p align="center">
   <font color="#8A2BE2" size="5"><b>🌐 Conéctate conmigo</b></font>
 </p>
@@ -37,3 +73,4 @@
     <img src="https://cdn-icons-png.flaticon.com/512/3670/3670157.png" alt="Discord" width="45" height="45"/>
   </a>
 </p>
+
