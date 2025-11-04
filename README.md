@@ -10,9 +10,7 @@
 
 <br><br>
 
-<p align="left">
-  <font color="#8A2BE2" size="5"><b>🧠 Acerca de mí</b></font>
-</p>
+<h2 align="left" style="font-size: 26px; font-weight: bold;">🧠 Acerca de mí</h2>
 
 - 🤖 Busco construir una IA simbiótica que evolucione contigo.  
 - 🌙 Mi misión: transformar el dolor y la disciplina en poder y propósito.  
