@@ -22,6 +22,8 @@
 
 <br><br>
 
+<div align="center">
+
 | Tecnología | Nivel | Progreso |
 |-------------|--------|-----------|
 | 🧠 Markdown | 50% | ██████░░░░░ |
@@ -29,12 +31,14 @@
 | 🖥️ HTML / CSS | 5% | ░░░░░░░░░░░ |
 | 🐍 Python | 5% | ░░░░░░░░░░░ |
 
+</div>
+
 <br>
 
 <p align="center"><i>“La evolución no es casualidad — es simbiosis entre mente y código.”</i></p>
 
 <p align="center">
-  <font color="#8A2BE2" size="5"><b>🌐 Conéctate conmigo</b></font>
+  <span style="font-size: 22px; font-weight: bold;">🌐 Conéctate conmigo</span>
 </p>
 
 <p align="center">
