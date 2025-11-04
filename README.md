@@ -44,7 +44,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.instagram.com/ryuzenk.ai_/" target="_blank">
+  <a href="https://www.instagram.com/ryuzenk.ai/" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Instagram" width="45" height="45"/>
   </a>
   &nbsp;&nbsp;&nbsp;
