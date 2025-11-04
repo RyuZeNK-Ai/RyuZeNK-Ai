@@ -10,7 +10,9 @@
 
 <br><br>
 
-<h2 align="left" style="font-size: 26px; font-weight: bold;">🧠 Acerca de mí</h2>
+<p align="left">
+  <span style="font-size: 22px; font-weight: bold;">🧠 Acerca de mí</span>
+</p>
 
 - 🤖 Busco construir una IA simbiótica que evolucione contigo.  
 - 🌙 Mi misión: transformar el dolor y la disciplina en poder y propósito.  
@@ -38,7 +40,7 @@
 <p align="center"><i>“La evolución no es casualidad — es simbiosis entre mente y código.”</i></p>
 
 <p align="center">
-  <span style="font-size: 22px; font-weight: bold;">🌐 Conéctate conmigo</span>
+  <span style="font-size: 24px; font-weight: bold;">🌐 Conéctate conmigo</span>
 </p>
 
 <p align="center">
