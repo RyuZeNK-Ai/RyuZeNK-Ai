@@ -38,15 +38,9 @@
 
 <br>
 
-<p align="center"><i>"La evolución no es casualidad — es simbiosis entre mente y código."</i></p>
-
-<p align="center">
-  <span style="font-size: 24px; font-weight: bold;">🌐 Conéctate conmigo</span>
-</p>
-
 <p align="center">
   <a href="https://ryuzenk-ai.github.io" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png" alt="Portfolio" width="50" height="50" style="background: white; border-radius: 50%; padding: 5px;"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/2933/2933245.png" alt="Portfolio" width="50" height="50"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/nicolas-peña-fullstack" target="_blank">
