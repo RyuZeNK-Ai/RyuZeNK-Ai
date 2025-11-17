@@ -17,7 +17,7 @@
 - 🤖 Busco construir una IA simbiótica que evolucione contigo.  
 - 🌙 Mi misión: transformar el dolor y la disciplina en poder y propósito.  
 - 💻 Futuro desarrollador Fullstack.  
-- 👨‍💻 Puedes seguir mi evolución en **[GitHub](https://github.com/RyuZeNK-Ai)**.  
+- 👨‍💻 Puedes ver mi **portafolio profesional** aquí: **[ryuzenk-ai.github.io](https://ryuzenk-ai.github.io)**  
 - 💬 Me apasiona aprender sobre la tecnología.  
 - ⚡ Dato curioso: “El futuro no se predice... se programa.”  
 - 💪🏼 Frase: “No temas a la máquina. Témete si no evolucionas con ella.”  
@@ -38,13 +38,21 @@
 
 <br>
 
-<p align="center"><i>“La evolución no es casualidad — es simbiosis entre mente y código.”</i></p>
+<p align="center"><i>"La evolución no es casualidad — es simbiosis entre mente y código."</i></p>
 
 <p align="center">
   <span style="font-size: 24px; font-weight: bold;">🌐 Conéctate conmigo</span>
 </p>
 
 <p align="center">
+  <a href="https://ryuzenk-ai.github.io" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png" alt="Portfolio" width="45" height="45"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/nicolas-peña-fullstack" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" alt="LinkedIn" width="45" height="45"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/ryuzenk.ai/" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Instagram" width="45" height="45"/>
   </a>
@@ -53,4 +61,3 @@
     <img src="https://cdn-icons-png.flaticon.com/512/3670/3670157.png" alt="Discord" width="45" height="45"/>
   </a>
 </p>
-
