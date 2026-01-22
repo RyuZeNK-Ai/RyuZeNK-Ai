@@ -26,13 +26,13 @@
 
 <div align="center">
 
-| Tecnología     | Nivel | Progreso     |
-|----------------|--------|--------------|
-| 🧠 Markdown | 85% | █████████░░ |
-| ⚙️ Git / GitHub | 75%   | ████████░░░ |
-| 🐍 Python | 55% | ██████░░░░░  |
-| 🖥️ HTML / CSS | 45% | ██████░░░░░ |
-| 💛 JavaScript   | 45% | █████░░░░░░ |
+| ⚡ NODE                | LAYER | STACK                              |
+|-----------------------|-------|------------------------------------|
+| 🧠 DOC_ENGINE          | Docs  | Markdown                            |
+| ⚙️ VERSION_CORE        | VCS   | Git · GitHub                        |
+| 🖥️ UI_LAYER            | Front | HTML · CSS · JavaScript             |
+| ☕ LOGIC_CORE          | Back  | Java · Spring Boot                  |
+| 🗄️ DATA_LAYER          | DB    | PostgreSQL · MySQL                  |
 
 </div>
 
