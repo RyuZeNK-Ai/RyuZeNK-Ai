@@ -12,15 +12,14 @@
 - ⚙️ Experiencia construyendo aplicaciones fullstack con APIs REST, persistencia de datos y despliegue en producción  
 - 👨‍💻 Portafolio profesional: **https://ryuzenk-ai.github.io**
 
-<br>
+<br><br>
 <h3>🧠 Visión</h3>
 
 - 🤖 Construir tecnología e IA simbiótica, consciente y evolutiva  
 - 🌙 Transformar disciplina y dificultad en propósito técnico  
 - ⚡ Código que no solo funcione, sino que tenga intención 
  
-<br>
-<br>
+<br><br><br>
 
 <h3 align="center">⚡ Arquitectura y Stack</h3>
 
@@ -37,6 +36,8 @@
 
 </div>
 
+<br>
+
 <h3 align="center">🛠️ Tecnologías y Herramientas</h3>
 
 <p align="center">
@@ -52,6 +53,7 @@
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" alt="Java"/> &nbsp;
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring&logoColor=white" alt="Spring Boot"/>
 </p>
+<br>
 <h3>💎 Proyectos Destacados</h3>
 
 | Proyecto | Descripción | Stack | Link |
