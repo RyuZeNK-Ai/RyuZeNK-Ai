@@ -6,7 +6,7 @@
 
 </div>
 
-<img align="right" alt="Coding" width="400" src="https://i.imgur.com/yLhrUFA.png">
+<img align="right" alt="Coding" width="380" src="https://i.imgur.com/yLhrUFA.png">
 
 
 <p style="max-width:550px">
