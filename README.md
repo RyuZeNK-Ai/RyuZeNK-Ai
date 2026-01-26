@@ -36,6 +36,8 @@
 
 </div>
 
+<br>
+
 <h3 align="center">🛠️ Tecnologías y Herramientas</h3>
 
 <p align="center">
@@ -58,6 +60,7 @@
 |:--------|:------------|:------|:-----|
 | **SouLink** | Plataforma fullstack con integración frontend/backend, persistencia de datos y despliegue en entornos reales. | Java · Spring Boot · REST API · JavaScript · HTML · CSS · PostgreSQL · Render · Vercel | [Ver](https://github.com/RyuZeNK-Ai/proyecto-soulink) |
 
+<br>
 <h3 align="center">🌐 Contacto y Redes</h3>
 
 <p align="center">
