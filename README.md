@@ -12,11 +12,15 @@
 - ⚙️ Experiencia construyendo aplicaciones fullstack con APIs REST, persistencia de datos y despliegue en producción  
 - 👨‍💻 Portafolio profesional: **https://ryuzenk-ai.github.io**
 
+<br>
 <h3>🧠 Visión</h3>
 
 - 🤖 Construir tecnología e IA simbiótica, consciente y evolutiva  
 - 🌙 Transformar disciplina y dificultad en propósito técnico  
-- ⚡ Código que no solo funcione, sino que tenga intención  
+- ⚡ Código que no solo funcione, sino que tenga intención 
+ 
+<br>
+<br>
 
 <h3 align="center">⚡ Arquitectura y Stack</h3>
 
