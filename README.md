@@ -6,24 +6,17 @@
 </div>
 
 <img align="right" alt="Coding" width="320" src="https://i.imgur.com/yLhrUFA.png">
-
-<br><br>
-
 <h3>🧬 Acerca de mí</h3>
 
 - 💻 **Desarrollador Fullstack**, enfocado en la integración entre frontend y backend  
 - ⚙️ Experiencia construyendo aplicaciones fullstack con APIs REST, persistencia de datos y despliegue en producción  
 - 👨‍💻 Portafolio profesional: **https://ryuzenk-ai.github.io**
 
-<br>
-
 <h3>🧠 Visión</h3>
 
 - 🤖 Construir tecnología e IA simbiótica, consciente y evolutiva  
 - 🌙 Transformar disciplina y dificultad en propósito técnico  
 - ⚡ Código que no solo funcione, sino que tenga intención  
-
-<br>
 
 <h3 align="center">⚡ Arquitectura y Stack</h3>
 
@@ -55,18 +48,11 @@
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" alt="Java"/> &nbsp;
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring&logoColor=white" alt="Spring Boot"/>
 </p>
-
-
-
-<br>
-
 <h3>💎 Proyectos Destacados</h3>
 
 | Proyecto | Descripción | Stack | Link |
 |:--------|:------------|:------|:-----|
 | **SouLink** | Plataforma fullstack con integración frontend/backend, persistencia de datos y despliegue en entornos reales. | Java · Spring Boot · REST API · JavaScript · HTML · CSS · PostgreSQL · Render · Vercel | [Ver](https://github.com/RyuZeNK-Ai/proyecto-soulink) |
-
-<br>
 
 <h3 align="center">🌐 Contacto y Redes</h3>
 
