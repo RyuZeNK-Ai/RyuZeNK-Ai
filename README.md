@@ -5,21 +5,21 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=8A2BE2&center=true&vCenter=true&width=520&lines=%3E+Bienvenido+a+mi+GitHub!;%3E+Fullstack+Developer)
 </div>
 
-<img align="right" alt="Coding" width="350" src="https://i.imgur.com/yLhrUFA.png">
+<img align="right" alt="Coding" width="300" src="https://i.imgur.com/yLhrUFA.png">
 <h3>🧬 Acerca de mí</h3>
 
 - 💻 **Desarrollador Fullstack**, enfocado en la integración entre frontend y backend  
 - ⚙️ Experiencia construyendo aplicaciones fullstack con APIs REST, persistencia de datos y despliegue en producción  
 - 👨‍💻 Portafolio profesional: **https://ryuzenk-ai.github.io**
 
-<br><br>
+<br>
 <h3>🧠 Visión</h3>
 
 - 🤖 Construir tecnología e IA simbiótica, consciente y evolutiva  
 - 🌙 Transformar disciplina y dificultad en propósito técnico  
 - ⚡ Código que no solo funcione, sino que tenga intención 
  
-<br><br><br><br>
+<br><br><br><br><br> 
 
 <h3 align="center">⚡ Arquitectura y Stack</h3>
 
@@ -36,8 +36,6 @@
 
 </div>
 
-<br>
-
 <h3 align="center">🛠️ Tecnologías y Herramientas</h3>
 
 <p align="center">
@@ -53,7 +51,7 @@
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" alt="Java"/> &nbsp;
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring&logoColor=white" alt="Spring Boot"/>
 </p>
-<br>
+
 <h3>💎 Proyectos Destacados</h3>
 
 | Proyecto | Descripción | Stack | Link |
