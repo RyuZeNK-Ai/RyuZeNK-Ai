@@ -5,7 +5,8 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=8A2BE2&center=true&vCenter=true&width=520&lines=%3E+Bienvenido+a+mi+GitHub!;%3E+Fullstack+Developer)
 </div>
 
-<img align="right" alt="Coding" width="400" src="https://i.imgur.com/yLhrUFA.png">
+<img align="right" alt="Coding" width="350" src="https://i.imgur.com/yLhrUFA.png">
+<p style="max-width:500px">
 <h3>🧬 Acerca de mí</h3>
 
 - 💻 **Desarrollador Fullstack**, enfocado en la integración entre frontend y backend  
@@ -18,7 +19,7 @@
 - 🤖 Construir tecnología e IA simbiótica, consciente y evolutiva  
 - 🌙 Transformar disciplina y dificultad en propósito técnico  
 - ⚡ Código que no solo funcione, sino que tenga intención 
- 
+</p>
 <br><br><br><br><br><br><br><br> 
 
 <h3 align="center">⚡ Arquitectura y Stack</h3>
