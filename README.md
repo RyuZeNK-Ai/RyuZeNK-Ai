@@ -1,26 +1,41 @@
 <h1 align="center">Hola, soy RyuZeNK-Ai 👋</h1>
 
 <div align="center">
-
+  
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=8A2BE2&center=true&vCenter=true&width=520&lines=%3E+Bienvenido+a+mi+GitHub!;%3E+Fullstack+Developer)
+
 </div>
 
-<img align="right" alt="Coding" width="350" src="https://i.imgur.com/yLhrUFA.png">
-<p style="max-width:500px">
+<img align="right" alt="Coding" width="400" src="https://i.imgur.com/yLhrUFA.png">
+
+
+<p style="max-width:550px">
+  
 <h3>🧬 Acerca de mí</h3>
 
-- 💻 **Desarrollador Fullstack**, enfocado en la integración entre frontend y backend  
-- ⚙️ Experiencia construyendo aplicaciones fullstack con APIs REST, persistencia de datos y despliegue en producción  
-- 👨‍💻 Portafolio profesional: **https://ryuzenk-ai.github.io**
+- 🤖 Soy **Nicolás Peña**, alias **RyuZeNK.Ai**, **Desarrollador Fullstack** que transforma ideas en experiencias digitales con propósito.  
+
+- 🌙 Apasionado por la **evolución humano–IA**, creando proyectos que inspiren y evolucionen con quienes los usan.  
+
+- 💻 Combino **creatividad, disciplina y visión de futuro**, integrando frontend, backend y bases de datos.  
+
+- ⚡ Frase guía: "**El futuro no espera… se crea, se moldea y se hace consciente.**"  
+
+- 🌟 Mi meta: **crear tecnología que empodere a otros**.
+
+</p>
 
 <br>
+
 <h3>🧠 Visión</h3>
 
-- 🤖 Construir tecnología e IA simbiótica, consciente y evolutiva  
-- 🌙 Transformar disciplina y dificultad en propósito técnico  
-- ⚡ Código que no solo funcione, sino que tenga intención 
-</p>
-<br><br><br><br><br><br><br><br> 
+- 🤖 Construir una **IA simbiótica**, un **segundo cerebro** que evolucione contigo.  
+- 🌙 Transformar dolor y caos en aprendizaje y dirección.  
+- ⚡ Potenciar la mente humana con tecnología consciente.  
+- 🔮 Inspirar a otros a crear tecnología que conecte mente, emoción y lógica.  
+- 🚀 Soñar y construir el futuro con la mente y la tecnología como aliados.
+  
+<br>
 
 <h3 align="center">⚡ Arquitectura y Stack</h3>
 
@@ -55,6 +70,8 @@
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring&logoColor=white" alt="Spring Boot"/>
 </p>
 
+<br>
+
 <h3>💎 Proyectos Destacados</h3>
 
 | Proyecto | Descripción | Stack | Link |
@@ -62,6 +79,7 @@
 | **SouLink** | Plataforma fullstack con integración frontend/backend, persistencia de datos y despliegue en entornos reales. | Java · Spring Boot · REST API · JavaScript · HTML · CSS · PostgreSQL · Render · Vercel | [Ver](https://github.com/RyuZeNK-Ai/proyecto-soulink) |
 
 <br>
+
 <h3 align="center">🌐 Contacto y Redes</h3>
 
 <p align="center">
