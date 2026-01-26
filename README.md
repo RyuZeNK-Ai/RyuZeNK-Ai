@@ -5,7 +5,7 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=8A2BE2&center=true&vCenter=true&width=520&lines=%3E+Bienvenido+a+mi+GitHub!;%3E+Fullstack+Developer)
 </div>
 
-<img align="right" alt="Coding" width="320" src="https://i.imgur.com/yLhrUFA.png">
+<img align="right" alt="Coding" width="420" src="https://i.imgur.com/yLhrUFA.png">
 <h3>🧬 Acerca de mí</h3>
 
 - 💻 **Desarrollador Fullstack**, enfocado en la integración entre frontend y backend  
