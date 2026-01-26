@@ -19,7 +19,7 @@
 - 🌙 Transformar disciplina y dificultad en propósito técnico  
 - ⚡ Código que no solo funcione, sino que tenga intención 
  
-<br><br><br>
+<br><br><br><br>
 
 <h3 align="center">⚡ Arquitectura y Stack</h3>
 
