@@ -2,7 +2,7 @@
 
 <div align="center">
   
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=8A2BE2&center=true&vCenter=true&width=520&lines=%3E+Bienvenido+a+mi+GitHub!;%3E+Fullstack+Developer)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=%3E+AI+Software+Developer+%26+FullStack+Builder;%3E+Backend+%7C+FullStack+%7C+Product+Thinking;%3E+Building+Real+Products+with+AI)
 
 </div>
 
@@ -13,15 +13,15 @@
   
 <h3>🧬 Acerca de mí</h3>
 
-- 🤖 Soy **Nicolás Peña**, alias **RyuZeNK.Ai**, **Desarrollador Fullstack** que transforma ideas en experiencias digitales con propósito.  
+- 🤖 Soy **Nicolás Peña**, alias **RyuZeNK.Ai**, **AI Software Developer & FullStack Builder** enfocado en transformar ideas en productos digitales reales.
 
-- 🌙 Apasionado por la **evolución humano–IA**, creando proyectos que inspiren y evolucionen con quienes los usan.  
+- 🌙 Apasionado por la convergencia entre **desarrollo de software e inteligencia artificial**, construyendo herramientas que evolucionan junto a quienes las utilizan.
 
-- 💻 Combino **creatividad, disciplina y visión de futuro**, integrando frontend, backend y bases de datos.  
+- 💻 Combino **creatividad, disciplina y pensamiento de producto**, integrando frontend, backend, datos e IA para resolver problemas reales.
 
-- ⚡ Frase guía: "**El futuro no espera… se crea, se moldea y se hace consciente.**"  
+- ⚡ Frase guía: "**El futuro no espera… se crea, se moldea y se construye.**"
 
-- 🌟 Mi meta: **crear tecnología que empodere a otros**.
+- 🌟 Mi meta: **crear tecnología que amplifique las capacidades humanas y genere impacto positivo.**
 
 </p>
 
@@ -29,11 +29,11 @@
 
 <h3>🧠 Visión</h3>
 
-- 🤖 Construir una **IA simbiótica**, un **segundo cerebro** que evolucione contigo.  
-- 🌙 Transformar dolor y caos en aprendizaje y dirección.  
-- ⚡ Potenciar la mente humana con tecnología consciente.  
-- 🔮 Inspirar a otros a crear tecnología que conecte mente, emoción y lógica.  
-- 🚀 Soñar y construir el futuro con la mente y la tecnología como aliados.
+- 🤖 Construir una IA simbiótica que amplifique las capacidades humanas y funcione como un segundo cerebro digital.
+- 🌙 Transformar desafíos, experiencias y aprendizaje en dirección, crecimiento y creación.
+- ⚡ Potenciar la mente humana mediante software, automatización e inteligencia artificial.
+- 🔮 Inspirar a otros a construir tecnología que conecte creatividad, lógica y propósito.
+- 🚀 Explorar y construir el futuro donde humanos e IA evolucionen como aliados.
   
 <br>
 
@@ -41,14 +41,20 @@
 
 <div align="center">
 
-| ⚡ NODE         | LAYER  | STACK                              |
-|----------------|--------|------------------------------------|
-| 🧠 DOC_ENGINE  | Docs   | Markdown                            |
-| ⚙️ VERSIONING  | VCS    | Git · GitHub                        |
-| 🖥️ UI_LAYER    | Front  | HTML · CSS · JavaScript             |
-| ☕ LOGIC_CORE  | Back   | Java · Spring Boot · REST API       |
-| 🗄️ DATA_LAYER | DB     | PostgreSQL · MySQL                  |
-| 🛠️ TOOL_LAYER | Tools  | Bruno · DBeaver                     |
+| ⚡ NODE | LAYER | STACK |
+|----------|----------|----------|
+| 🧠 DOC_ENGINE | Docs | OpenAPI · Swagger · ADRs · Markdown |
+| ⚙️ VERSIONING | VCS | Git · GitHub · GitHub Projects |
+| 🖥️ UI_LAYER | Front | React · Next.js · TypeScript · JavaScript · HTML · CSS |
+| ⚡ API_CORE | Back | NestJS · Node.js · TypeScript · Java · Spring Boot · REST APIs |
+| 🗄️ DATA_LAYER | DB | PostgreSQL · Prisma ORM · MySQL · Firestore |
+| 🔐 AUTH_LAYER | Auth | Firebase Auth · Firebase Admin SDK |
+| ☁️ CLOUD_LAYER | Services | Firebase Cloud Messaging (FCM) · Firestore |
+| 🧪 QA_LAYER | Testing | Jest · Bruno · Postman |
+| 🚀 DEVOPS_LAYER | DevOps | Docker · GitHub Actions · CI/CD |
+| 🤖 AI_LAYER | AI Workflow | Claude Code · GitHub Copilot · ChatGPT · DeepSeek |
+| 🛠️ TOOL_LAYER | Tools | DBeaver · VS Code |
+
 
 </div>
 
@@ -56,27 +62,48 @@
 
 <h3 align="center">🛠️ Tecnologías y Herramientas</h3>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5"/> &nbsp;
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3"/> &nbsp;
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript"/> &nbsp;
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white" alt="Bootstrap"/> 
+<div align="center">
+
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white"/>
+
   <br>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL"/> &nbsp;
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL"/> &nbsp;
-  <img src="https://img.shields.io/badge/DBeaver-1A1A1A?style=flat&logo=dbeaver&logoColor=white" alt="DBeaver"/>
-    <br>
-  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" alt="Java"/> &nbsp;
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring&logoColor=white" alt="Spring Boot"/>
-</p>
+
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring&logoColor=white"/>
+
+  <br>
+
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black"/>
+  
+  <br>
+
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Bruno-FF6B35?style=flat&logo=bruno&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DBeaver-1A1A1A?style=flat&logo=dbeaver&logoColor=white"/>
+
+</div>
 
 <br>
 
 <h3>💎 Proyectos Destacados</h3>
 
-| Proyecto | Descripción | Stack | Link |
-|:--------|:------------|:------|:-----|
-| **SouLink** | Plataforma fullstack con integración frontend/backend, persistencia de datos y despliegue en entornos reales. | Java · Spring Boot · REST API · JavaScript · HTML · CSS · PostgreSQL · Render · Vercel | [Ver](https://github.com/RyuZeNK-Ai/proyecto-soulink) |
+| Proyecto | Descripción | Stack | Demo | Case Study |
+|:--------|:------------|:------|:-----|:-----|
+| **InkVibe** | Plataforma FullStack para la industria del tatuaje. Participación en el desarrollo de APIs REST, módulos de negocio, documentación técnica, testing y coordinación de integraciones entre Backend, Frontend y Mobile. | NestJS · TypeScript · PostgreSQL · Prisma ORM · Firebase · React · Next.js | [Abrir](https://www.inkvibe.app) | [Ver PDF](https://drive.google.com/file/d/1sEGEswqREsz09-vpKmoKIxO9d76YWfi9/view?usp=drive_link) |
+| **SouLink** | Plataforma FullStack con integración frontend/backend, persistencia de datos y despliegue en entornos reales desarrollada durante Generation Chile. | Java · Spring Boot · REST API · JavaScript · HTML · CSS · PostgreSQL · Render · Vercel | [Abrir](https://proyecto-soulink.vercel.app) | [GitHub](https://github.com/RyuZeNK-Ai/proyecto-soulink) |
 
 <br>
 
@@ -88,8 +115,13 @@
     <img src="https://img.shields.io/badge/Portafolio-8000FF?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"/>
   </a>
   &nbsp;&nbsp;&nbsp;
+  <!-- CV -->
+  <a href="https://drive.google.com/file/d/1sYgb_Oftg8PKAcp20AZBQgMxhyy-KUEY/view?usp=sharing">
+    <img src="https://img.shields.io/badge/CV-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="CV"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
   <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/nicolas-peña-fullstack">
+  <a href="https://www.linkedin.com/in/nicolas-pena-ai-dev">
     <img src="https://img.shields.io/badge/LinkedIn-28A745?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;&nbsp;
@@ -104,7 +136,7 @@
   </a>
   &nbsp;&nbsp;&nbsp;
   <!-- Correo -->
-  <a href="mailto:nicolas.2244@hotmail.com">
+  <a href="mailto:ryuzenkai.dev@gmail.com">
     <img src="https://img.shields.io/badge/Correo-D93025?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo"/>
   </a>
   &nbsp;&nbsp;&nbsp;
