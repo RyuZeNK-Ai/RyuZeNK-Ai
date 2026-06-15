@@ -49,11 +49,11 @@
 | ⚡ API_CORE | Back | NestJS · Node.js · TypeScript · Java · Spring Boot · REST APIs |
 | 🗄️ DATA_LAYER | DB | PostgreSQL · Prisma ORM · MySQL · Firestore |
 | 🔐 AUTH_LAYER | Auth | Firebase Auth · Firebase Admin SDK |
-| ☁️ CLOUD_LAYER | Services | Firebase Cloud Messaging (FCM) · Firestore |
+| ☁️ CLOUD_LAYER | Services | Firebase · Firestore · FCM · Hosting Integrations |
 | 🧪 QA_LAYER | Testing | Jest · Bruno · Postman |
 | 🚀 DEVOPS_LAYER | DevOps | Docker · GitHub Actions · CI/CD |
 | 🤖 AI_LAYER | AI Workflow | Claude Code · GitHub Copilot · ChatGPT · DeepSeek |
-| 🛠️ TOOL_LAYER | Tools | DBeaver · VS Code |
+| 🛠️ TOOL_LAYER | Tools | VS Code · DBeaver · Postman · Chrome DevTools |
 
 
 </div>
@@ -77,6 +77,8 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Elementor-92003B?style=flat&logo=elementor&logoColor=white"/>
 
   <br>
 
@@ -98,12 +100,15 @@
 
 <br>
 
+<br>
+
 <h3>💎 Proyectos Destacados</h3>
 
-| Proyecto | Descripción | Stack | Demo | Case Study |
+| Proyecto | Descripción | Stack | Demo | Repo |
 |:--------|:------------|:------|:-----|:-----|
-| **InkVibe** | Plataforma FullStack para la industria del tatuaje. Participación en el desarrollo de APIs REST, módulos de negocio, documentación técnica, testing y coordinación de integraciones entre Backend, Frontend y Mobile. | NestJS · TypeScript · PostgreSQL · Prisma ORM · Firebase · React · Next.js | [Abrir](https://www.inkvibe.app) | [Ver PDF](https://drive.google.com/file/d/1sEGEswqREsz09-vpKmoKIxO9d76YWfi9/view?usp=drive_link) |
-| **SouLink** | Plataforma FullStack con integración frontend/backend, persistencia de datos y despliegue en entornos reales desarrollada durante Generation Chile. | Java · Spring Boot · REST API · JavaScript · HTML · CSS · PostgreSQL · Render · Vercel | [Abrir](https://proyecto-soulink.vercel.app) | [GitHub](https://github.com/RyuZeNK-Ai/proyecto-soulink) |
+| **InkVibe** | Plataforma FullStack para la industria del tatuaje. Desarrollo de APIs, módulos de negocio, testing, documentación e integración entre Backend, Frontend y Mobile. | NestJS · TypeScript · PostgreSQL · Prisma · Firebase · React · Next.js | [Sitio](https://www.inkvibe.app) | [Caso](https://drive.google.com/file/d/1sEGEswqREsz09-vpKmoKIxO9d76YWfi9/view?usp=drive_link) |
+| **NEXO VECTORIA** | Sitio corporativo para empresa de ingeniería e IA. Incluye WordPress, responsive design, optimización UX/UI, SEO técnico y configuración de Search Console. | WordPress · Elementor · HTML · CSS · SEO | [Sitio](https://nexovectoria.cl) | [Repo](https://github.com/RyuZeNK-Ai/NEXO-VECTORIA) |
+| **SouLink** | Plataforma FullStack desarrollada durante Generation Chile con autenticación, persistencia de datos y despliegue en producción. | Java · Spring Boot · PostgreSQL · REST API | [Sitio](https://proyecto-soulink.vercel.app) | [Repo](https://github.com/RyuZeNK-Ai/proyecto-soulink) |
 
 <br>
 
