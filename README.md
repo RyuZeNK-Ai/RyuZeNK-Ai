@@ -121,7 +121,7 @@
   </a>
   &nbsp;&nbsp;&nbsp;
   <!-- CV -->
-  <a href="https://drive.google.com/file/d/1sYgb_Oftg8PKAcp20AZBQgMxhyy-KUEY/view?usp=sharing">
+  <a href="https://drive.google.com/file/d/1edijtXzmCUslCgZvzhqE7ljYTOLJgRkd/view">
     <img src="https://img.shields.io/badge/CV-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="CV"/>
   </a>
   &nbsp;&nbsp;&nbsp;
